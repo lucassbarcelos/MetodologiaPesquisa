@@ -18,7 +18,7 @@ Aluno: Lucas Barcelos - 1460281923024
     
  - 2: Motivação
  
-    O ciclismo está entre os esportes e atividades mais praticadas no mundo (SALA et al., 1999) no entanto, a prática do ciclismo, ou mesmo o uso de bicicleta como meio de transporte, muitas vezes é prejudicada por lesões por esforço repetitivo, levando à diminuição da frequência do uso da bicicleta (CLARSEN; KROSS HAUG; BAHR, 2010). 
+O ciclismo está entre os esportes e atividades mais praticadas no mundo (SALA et al., 1999) no entanto, a prática do ciclismo, ou mesmo o uso de bicicleta como meio de transporte, muitas vezes é prejudicada por lesões por esforço repetitivo, levando à diminuição da frequência do uso da bicicleta (CLARSEN; KROSS HAUG; BAHR, 2010). 
     
 Dentre estas disfunções, a dor lombar (lombalgia) é uma das mais frequentes, podendo perdurar após o término da prática ciclística.
 Se atribui a lombalgia em ciclistas a flexão de tronco prolongada por longos períodos (SANNER; O’HALLORAN, 2000) principalmente quando o ciclista porta-se visando a otimização de aspectos aerodinâmicos.
